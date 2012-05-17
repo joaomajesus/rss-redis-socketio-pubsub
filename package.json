@@ -1,0 +1,11 @@
+{
+    "name": "rsspubsub"
+  , "version": "0.0.1"
+  , "dependencies": {
+      "express": "2.5.8"
+    , "hiredis": "0.1.14"
+	, "redis": "0.7.2"
+    , "socket.io": "0.9.6"
+    , "feed-poll": "0.0.1"
+  }
+}
