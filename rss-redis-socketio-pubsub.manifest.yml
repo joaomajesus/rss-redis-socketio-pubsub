@@ -9,5 +9,8 @@ applications:
         mem: 64M
         description:  Node.JS Application
         exec:
+    services:
+      redis:
+        type: redis
     mem: 64M
     instances: 1
