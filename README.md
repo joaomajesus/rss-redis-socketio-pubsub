@@ -17,11 +17,11 @@ The subscriber.html page just shows a simple list of articles with the time and 
 
 [Node.js](http://nodejs.org)  
 [Node.js Guide](http://nodemanual.org/latest/nodejs_dev_guide/)  
-[docs.nodejitsu.com](http://docs.nodejitsu.com/)  
+[docs.nodejitsu.com - Community powered rocket-fuel for node.js](http://docs.nodejitsu.com/)  
 [The Node Beginner Book » A comprehensive Node.js tutorial](http://www.nodebeginner.org/)  
 [npm - Node Package Manager](http://npmjs.org/)  
 [feed-poll - Poll for RSS or ATOM articles.](https://github.com/sentientwaffle/feed-poll)  
-[Express - Node web framework](http://expressjs.com/)  
+[express - Node web framework](http://expressjs.com/)  
 [node_redis - A node.js redis client](https://github.com/mranney/node_redis)
 
 ####Socket.IO
@@ -50,7 +50,7 @@ The subscriber.html page just shows a simple list of articles with the time and 
 ####GitHub
 
 [GitHub](https://github.com/)  
-[Help.GitHub – Welcome](http://help.github.com/)
+[Help.GitHub](http://help.github.com/)
 
 ####Cloud Foundry
 
