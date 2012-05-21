@@ -42,6 +42,11 @@ The subscriber.html page just shows a simple list of articles with the time and 
 [Cloud9 IDE - Online IDE – Your code anywhere, anytime](http://c9.io/)  
 [Support - FAQ – How can we help you today- - Cloud9 IDE - Online IDE – Your code anywhere, anytime](http://c9.io/site/category/faq/)
 
+####jQuery
+
+[jQuery](http://jquery.com)
+[jQuery Documentation](http://docs.jquery.com/Main_Page)
+
 ####GitHub
 
 [GitHub](https://github.com/)  
