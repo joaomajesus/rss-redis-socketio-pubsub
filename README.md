@@ -44,7 +44,7 @@ The subscriber.html page just shows a simple list of articles with the time and 
 
 ####jQuery
 
-[jQuery](http://jquery.com)
+[jQuery](http://jquery.com)  
 [jQuery Documentation](http://docs.jquery.com/Main_Page)
 
 ####GitHub
