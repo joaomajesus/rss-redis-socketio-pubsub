@@ -35,7 +35,8 @@ The subscriber.html page just shows a simple list of articles with the time and 
 
 [Redis](http://redis.io/)  
 [Redis Command reference](http://redis.io/commands)  
-[The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
+[The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)  
+[MSOpenTech - Redis on Windows prototype](https://github.com/MSOpenTech/redis)
 
 ####Cloud9 IDE
 
