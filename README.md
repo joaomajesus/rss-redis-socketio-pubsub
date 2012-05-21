@@ -20,27 +20,27 @@ The subscriber.html page just shows a simple list of articles with the time and 
 [docs.nodejitsu.com](http://docs.nodejitsu.com/)  
 [The Node Beginner Book » A comprehensive Node.js tutorial](http://www.nodebeginner.org/)  
 [npm - Node Package Manager](http://npmjs.org/)  
-[feed-poll](https://github.com/sentientwaffle/feed-poll)  
-[Express - node web framework](http://expressjs.com/)
+[feed-poll - Poll for RSS or ATOM articles.](https://github.com/sentientwaffle/feed-poll)  
+[Express - Node Web Framework](http://expressjs.com/)  
+[node_redis - a node.js redis client](https://github.com/mranney/node_redis)
 
-####Socket.io
+####Socket.IO
 
 [Socket.IO - the cross-browser WebSocket for realtime apps](http://socket.io/)  
-[Websockets everywhere with Socket.IO - How To Node - NodeJS](http://howtonode.org/websockets-socketio)  
-[socket.io at GitHub](https://github.com/LearnBoost/socket.io)  
-[Configuring Socket.IO • LearnBoost-socket.io Wiki](https://github.com/LearnBoost/Socket.IO/wiki/Configuring-Socket.IO)
+[Socket.IO at GitHub](https://github.com/LearnBoost/socket.io)  
+[Configuring Socket.IO • LearnBoost-socket.io Wiki](https://github.com/LearnBoost/Socket.IO/wiki/Configuring-Socket.IO)  
+[Websockets everywhere with Socket.IO - How To Node - NodeJS](http://howtonode.org/websockets-socketio)
 
 ####Redis
 
 [Redis](http://redis.io/)  
-[Command reference – Redis](http://redis.io/commands)  
-[The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)  
-[node_redis](https://github.com/mranney/node_redis)
+[Redis Command reference](http://redis.io/commands)  
+[The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
 
 ####Cloud9 IDE
 
 [Cloud9 IDE - Online IDE – Your code anywhere, anytime](http://c9.io/)  
-[Support - FAQ – How can we help you today- - Cloud9 IDE - Online IDE – Your code anywhere, anytime](http://c9.io/site/category/faq/)
+[Cloud9 IDE - Support - FAQ](http://c9.io/site/category/faq/)
 
 ####jQuery
 
