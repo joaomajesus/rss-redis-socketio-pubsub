@@ -4,9 +4,14 @@ rss-redis-socketio-pubsub
 This is a technology sample I'm using to experiment with some of the recent frameworks on the web stack.  
 Namely, Node.js, Socket.io and Redis
 
-I've used the Cloud9 IDE, an online IDE with GitHub integration, to edit, debug and deploy this app to Cloud Foundry.
+I've used the Cloud9 IDE, an online IDE with GitHub integration, to edit, debug and deploy this app to Cloud Foundry, a free, open source PaaS provider.
 
-##Reference
+This app pools a RSS feed, stores the articles on Redis and pushes them to web client subscribers using Socket.io.
+
+The default page (index.html) has a textbox to enter the RSS feed and a start and stop buttons.
+The subscriber.html page simply shows the list of articles with the time and title/link. 
+
+##References
 
 ####Node.js
 
