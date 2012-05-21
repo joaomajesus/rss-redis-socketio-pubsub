@@ -21,8 +21,8 @@ The subscriber.html page just shows a simple list of articles with the time and 
 [The Node Beginner Book » A comprehensive Node.js tutorial](http://www.nodebeginner.org/)  
 [npm - Node Package Manager](http://npmjs.org/)  
 [feed-poll - Poll for RSS or ATOM articles.](https://github.com/sentientwaffle/feed-poll)  
-[Express - Node Web Framework](http://expressjs.com/)  
-[node_redis - a node.js redis client](https://github.com/mranney/node_redis)
+[Express - Node web framework](http://expressjs.com/)  
+[node_redis - A node.js redis client](https://github.com/mranney/node_redis)
 
 ####Socket.IO
 
