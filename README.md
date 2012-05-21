@@ -19,6 +19,7 @@ The subscriber.html page just shows a simple list of articles with the time and 
 [Node.js Guide](http://nodemanual.org/latest/nodejs_dev_guide/)  
 [docs.nodejitsu.com](http://docs.nodejitsu.com/)  
 [The Node Beginner Book » A comprehensive Node.js tutorial](http://www.nodebeginner.org/)  
+[npm - Node Package Manager](http://npmjs.org/)  
 [feed-poll](https://github.com/sentientwaffle/feed-poll)  
 [Express - node web framework](http://expressjs.com/)
 
