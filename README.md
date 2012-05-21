@@ -9,7 +9,7 @@ I've used the Cloud9 IDE, a free online IDE with GitHub integration, to edit, de
 This app pools a RSS feed, stores the articles on Redis and pushes them to web client subscribers using Socket.io.
 
 The default page (index.html) has a textbox to enter the RSS feed and a start and stop buttons.
-The subscriber.html page simply shows the list of articles with the time and title/link. 
+The subscriber.html page just shows a simple list of articles with the time and title/link. 
 
 ##References
 
